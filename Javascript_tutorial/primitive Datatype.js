@@ -21,3 +21,17 @@ console.log(id === anotherId);
 
 
 // Array, Object, Function
+
+
+// Stack (primitive), Heap (Non-Primitive)
+
+let myyoutube = " agkjgdkjgdk"
+othername = "hjsahiuhe"
+
+console.log(myyoutube);
+console.log(anotherId);
+
+let user = {
+    email: "user@goonjfh",
+    upi: "user@ybl"
+}
